@@ -1,0 +1,1 @@
+Build the turtlebot_ws using colcon build. run in this order in separate terminals: ros2 launch turtlebot3_description turtlebot3_gazebo.launch.py, ros2 run my_robot_tf odom_to_tf, ros2 run tb3_apf_planner apf_planner_node
